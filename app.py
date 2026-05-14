@@ -8,5 +8,5 @@ def welcome_message():
     print("Welcome Elmehdi to your AI Auditor Test!")
     print("System initialized successfully.")
 
-welcome_message()
+welcome_message("hello")
 
