@@ -9,3 +9,4 @@ def welcome_message():
     print("System initialized successfully.")
 
 welcome_message()
+
